@@ -40,7 +40,7 @@ export default function Projects() {
                     <img src={nyc} alt={nyc} />
                     <div className="project--showcaseBtn">
                       <a
-                        href="#"
+                        href={"#"}
                         rel="noreferrer"
                         className={"iconBtn"}
                         aria-labelledby={`code`}
@@ -100,7 +100,7 @@ export default function Projects() {
                     <img src={hd} alt={hd} />
                     <div className="project--showcaseBtn">
                       <a
-                      href="#"
+                        href={"#"}
                         rel="noreferrer"
                         className={"iconBtn"}
                         aria-labelledby={`code`}
@@ -160,7 +160,7 @@ export default function Projects() {
                     <img src={ci} alt={ci} />
                     <div className="project--showcaseBtn">
                       <a
-                        href="#"
+                        href={"#"}
                         rel="noreferrer"
                         className={"iconBtn"}
                         aria-labelledby={`code`}

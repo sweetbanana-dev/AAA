@@ -55,7 +55,7 @@ export default function ProjectPage() {
                                 <img src={nyc} alt={nyc} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -115,7 +115,7 @@ export default function ProjectPage() {
                                 <img src={hd} alt={hd} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -174,7 +174,7 @@ export default function ProjectPage() {
                                 <img src={ci} alt={ci} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -234,7 +234,7 @@ export default function ProjectPage() {
                                 <img src={eco} alt={eco} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -294,7 +294,7 @@ export default function ProjectPage() {
                                 <img src={pp} alt={pp} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                   href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -352,7 +352,7 @@ export default function ProjectPage() {
                                 <img src={meal} alt={meal} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -412,7 +412,7 @@ export default function ProjectPage() {
                                 <img src={ac} alt={ac} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -472,7 +472,7 @@ export default function ProjectPage() {
                                 <img src={calendar} alt={calendar} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                   href="#"
+                                   href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -529,7 +529,7 @@ export default function ProjectPage() {
                                 <img src={calculator} alt={calculator} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -586,7 +586,7 @@ export default function ProjectPage() {
                                 <img src={dc} alt={dc} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -642,7 +642,7 @@ export default function ProjectPage() {
                                 <img src={age} alt={age} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
@@ -699,7 +699,7 @@ export default function ProjectPage() {
                                 <img src={sims} alt={sims} />
                                 <div className="project--showcaseBtn">
                                   <a
-                                    href="#"
+                                    href={"#"}
                                     rel="noreferrer"
                                     className={"iconBtn"}
                                     aria-labelledby={`code`}
